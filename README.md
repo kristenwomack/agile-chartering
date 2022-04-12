@@ -35,3 +35,14 @@ One of the most important aspects of an Agile Chartering session is that everyon
     6. What are the assumptions and dependencies?
     7. What are the risks and mitigations?
 4. Review and publish the charter
+
+## References and further reading
+
+Building Effective Teams: Miss the Start, Miss the End | Esther Derby
+https://www.estherderby.com/miss-the-start-miss-the-end/
+
+A THEORY OF TEAM COACHING | J. RICHARD HACKMAN and RUTH WAGEMAN
+http://www.redica.pe.kr/wiki/upload/Theory_of_Team_Coaching.pdf
+
+Liftoff: Launcing Agile Teams & Projects | Diane Larsen and Ainsley Nies
+https://www.agilealliance.org/resources/books/liftoff/
