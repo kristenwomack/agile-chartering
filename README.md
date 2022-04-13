@@ -46,3 +46,6 @@ http://www.redica.pe.kr/wiki/upload/Theory_of_Team_Coaching.pdf
 
 Liftoff: Launcing Agile Teams & Projects | Diane Larsen and Ainsley Nies
 https://www.agilealliance.org/resources/books/liftoff/
+
+Engaging the whole team through a Team Charter remote session | Thoughtworks
+https://www.thoughtworks.com/en-gb/insights/blog/engaging-whole-team-through-team-charter-remote-session
