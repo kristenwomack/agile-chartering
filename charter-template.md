@@ -13,7 +13,7 @@ What is your shared team "elevator pitch" of your work? If you were in an elevat
 What are the goals and outcomes for this period of time?
 
 ## Success criteria and measures
-How will we know we are sucessful at the end of [time period of charter]?
+How will we know we are successful at the end of [time period of charter]?
 
 ## Assumptions and dependencies
 What are the assumptions and dependencies to consider in this work?
