@@ -39,14 +39,14 @@ Go to the [charter template](https://github.com/kristenwomack/agile-chartering/b
 
 ## References and further reading
 
-Building Effective Teams: Miss the Start, Miss the End | Esther Derby
+Building Effective Teams: Miss the Start, Miss the End | Esther Derby <br>
 https://www.estherderby.com/miss-the-start-miss-the-end/
 
-A THEORY OF TEAM COACHING | J. RICHARD HACKMAN and RUTH WAGEMAN
+A THEORY OF TEAM COACHING | J. RICHARD HACKMAN and RUTH WAGEMAN <br>
 http://www.redica.pe.kr/wiki/upload/Theory_of_Team_Coaching.pdf
 
-Liftoff: Launcing Agile Teams & Projects | Diane Larsen and Ainsley Nies
+Liftoff: Launcing Agile Teams & Projects | Diane Larsen and Ainsley Nies <br>
 https://www.agilealliance.org/resources/books/liftoff/
 
-Engaging the whole team through a Team Charter remote session | Thoughtworks
+Engaging the whole team through a Team Charter remote session | Thoughtworks <br>
 https://www.thoughtworks.com/en-gb/insights/blog/engaging-whole-team-through-team-charter-remote-session
