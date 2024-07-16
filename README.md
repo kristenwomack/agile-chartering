@@ -36,6 +36,9 @@ One of the most important aspects of an Agile Chartering session is that everyon
     7. What are the risks and mitigations?
 4. Review and publish the charter
 
+### Next steps
+Go to the [charter template](https://github.com/kristenwomack/agile-chartering/blob/main/charter-template.md) to get started.
+
 ## References and further reading
 
 Building Effective Teams: Miss the Start, Miss the End | Esther Derby
