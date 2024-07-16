@@ -14,9 +14,7 @@ An agile chartering session is the opportunity to create a common understanding 
 
 The three critical elements of a project chartering session are purpose, alignment, and context.
 
-*“In the spirit of the values and principles of the Agile Manifesto, chartering takes on a new meaning. Agile chartering is a lightweight, minimum-documentation approach to creating initial understandings, agreements, and alignment about the work and how it will be accomplished. Agile chartering catalyzes the interactions needed to accomplish the work, facilitates a quick start on delivering softwares, accelerates collaboration within a the team and across the project community, and sets the context for re-planning when new information becomes available.”* 
-
-- Diana Larsen & Ainsley Nies, Liftoff
+*“In the spirit of the values and principles of the Agile Manifesto, chartering takes on a new meaning. Agile chartering is a lightweight, minimum-documentation approach to creating initial understandings, agreements, and alignment about the work and how it will be accomplished. Agile chartering catalyzes the interactions needed to accomplish the work, facilitates a quick start on delivering softwares, accelerates collaboration within a the team and across the project community, and sets the context for re-planning when new information becomes available.”* - Diana Larsen & Ainsley Nies, Liftoff
 
 ### The facilitator
 
