@@ -4,11 +4,11 @@ A repository for notes on Agile Chartering and templates to use.
 
 ## Overview Section
 
-This is an introduction to Agile Chartering from my experience and from what I’ve learned from fellow practitioners. If you find this helpful, please use it. 
+This is an introduction to Agile Chartering, and industry practice for software development teams. Open to contributions.
 
-Agile chartering is a powerful tool, and when used regularly (in my experience, quarterly or every 12 weeks), a team can realize even more benefits with practice and trust.
+Agile chartering is a powerful tool, and when used regularly, a team can realize even more benefits with practice and trust. There is data that suggests quarterly, about 12 weeks, is enough time to to take on an ambitious amount of work and short enough to stay on task without getting lost.
 
-An agile chartering session is the opportunity to create a common understanding of the goals for a project through conversation together (real-time in person or by video meeting). Co-creating the charter gives the team one of the best chances of accomplishing their goals. In the session, the team works out any details, agree on success criteria, and make roles clear. After the session, the charter artifact also serves as a guide in the work as a reference during the period the charter covers (I usually recommend 12 weeks).
+An agile chartering session is the opportunity to co-create a common understanding of the goals for a project through conversation together (real-time in person or by video meeting). Co-creating the charter gives the team one of the best chances of accomplishing their goals. In the session, the team works out any details, agree on success criteria, and make roles clear. After the session, the charter artifact also serves as a guide in the work as a reference during the period the charter covers (~12 weeks or six two-week iterations).
 
 ### Purpose of a charter session
 
